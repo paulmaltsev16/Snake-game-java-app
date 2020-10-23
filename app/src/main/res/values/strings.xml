@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Java Snake Game</string>
+    <string name="shared_pref_name">snake_game</string>
+    <string name="snake_length">snake_length</string>
+</resources>

@@ -1,2 +1,2 @@
 # Snake-game-java-app
-<img src= "gif/snake_game">
+<img src= "path/gif/snake_game">
